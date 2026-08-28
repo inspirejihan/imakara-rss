@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>이마까라 니홍고</title>
+    <link>https://www.podbbang.com/magazines/1790934</link>
+    <description>마사오와 죽돌이의 일본어 교육방송 — 팟빵 오디오 매거진의 비공식 개인 구독용 RSS</description>
+    <language>ko-kr</language>
+    <copyright>팟빵</copyright>
+    <lastBuildDate>Fri, 28 Aug 2026 07:56:05 GMT</lastBuildDate>
+    <generator>Custom RSS generated from publicly listed Podbbang magazine episodes</generator>
+    <image>
+      <url>https://inspirejihan.github.io/imakara-rss/imakara_nihongo_cover.jpg</url>
+      <title>이마까라 니홍고</title>
+      <link>https://www.podbbang.com/magazines/1790934</link>
+    </image>
+    <itunes:author>마사오와 죽돌이</itunes:author>
+    <itunes:summary>마사오와 죽돌이의 일본어 교육방송</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:image href="https://inspirejihan.github.io/imakara-rss/imakara_nihongo_cover.jpg"/>
+    <item>
+      <title>듣고 따라하세요! (2026년 8월호)</title>
+      <description>이마까라 니홍고 · 2026년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4873/episodes/25305716</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25305716</guid>
+      <pubDate>Sat, 01 Aug 2026 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2608repeat.mp3" length="3000831" type="audio/mpeg"/>
+      <itunes:duration>00:03:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>70강. 수동의 れる･られる 기본편: 능동 표현과 왔다 갔다! (2026년 8월호)</title>
+      <description>이마까라 니홍고 · 2026년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4873/episodes/25305050</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25305050</guid>
+      <pubDate>Sat, 01 Aug 2026 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2608imakara70.mp3" length="37608613" type="audio/mpeg"/>
+      <itunes:duration>00:44:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>69강. [어휘] 도나루토의 하루 17: 몸 상태 2! (2026년 8월호)</title>
+      <description>이마까라 니홍고 · 2026년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4873/episodes/25302542</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25302542</guid>
+      <pubDate>Sat, 01 Aug 2026 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2608imakara69.mp3" length="30794847" type="audio/mpeg"/>
+      <itunes:duration>00:36:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>68강-2. [인터뷰] 만화계의 불타는 투혼, 김성모 (2026년 8월호)</title>
+      <description>이마까라 니홍고 · 2026년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4873/episodes/25299971</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25299971</guid>
+      <pubDate>Sat, 01 Aug 2026 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2608imakara68b.mp3" length="32264435" type="audio/mpeg"/>
+      <itunes:duration>00:38:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>68강-1. [인터뷰] 김성모에게서 근성을 배우다 (2026년 8월호)</title>
+      <description>이마까라 니홍고 · 2026년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4873/episodes/25299970</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25299970</guid>
+      <pubDate>Sat, 01 Aug 2026 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2608imakara68a.mp3" length="31808829" type="audio/mpeg"/>
+      <itunes:duration>00:37:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2026년 7월호)</title>
+      <description>이마까라 니홍고 · 2026년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4858/episodes/25294309</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25294309</guid>
+      <pubDate>Wed, 01 Jul 2026 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2607repeat.mp3" length="6277377" type="audio/mpeg"/>
+      <itunes:duration>00:07:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>67강-2. “할 수 있는” れる・られる, 그리고 “가능동사”! (2026년 7월호)</title>
+      <description>이마까라 니홍고 · 2026년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4858/episodes/25294271</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25294271</guid>
+      <pubDate>Wed, 01 Jul 2026 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2607imakara67b.mp3" length="27163993" type="audio/mpeg"/>
+      <itunes:duration>00:32:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>67강-1. “할 수 있는” れる・られる, 그리고 “가능동사”! (2026년 7월호)</title>
+      <description>이마까라 니홍고 · 2026년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4858/episodes/25294268</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25294268</guid>
+      <pubDate>Wed, 01 Jul 2026 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2607imakara67a.mp3" length="20627759" type="audio/mpeg"/>
+      <itunes:duration>00:24:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>66강. [어휘] 도나루토의 하루 16: 몸 상태!! (2026년 7월호)</title>
+      <description>이마까라 니홍고 · 2026년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4858/episodes/25294267</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25294267</guid>
+      <pubDate>Wed, 01 Jul 2026 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2607imakara66.mp3" length="39716350" type="audio/mpeg"/>
+      <itunes:duration>00:47:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>멜론빵이 온다 (3) 국민빵 그리고 누레 히요코의 빵집 탐방 (2026년 7월호)</title>
+      <description>이마까라 니홍고 · 2026년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4858/episodes/25294266</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25294266</guid>
+      <pubDate>Wed, 01 Jul 2026 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2607imakaraFOOD.mp3" length="36410472" type="audio/mpeg"/>
+      <itunes:duration>00:43:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2026년 6월호)</title>
+      <description>이마까라 니홍고 · 2026년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4823/episodes/25282254</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25282254</guid>
+      <pubDate>Mon, 01 Jun 2026 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2606repeat.mp3" length="3029657" type="audio/mpeg"/>
+      <itunes:duration>00:03:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>65강. 특별 강의 : 見せられる와 見させられる는 어떻게 달라? (2026년 6월호)</title>
+      <description>이마까라 니홍고 · 2026년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4823/episodes/25282253</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25282253</guid>
+      <pubDate>Mon, 01 Jun 2026 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2606imakara65.mp3" length="26378271" type="audio/mpeg"/>
+      <itunes:duration>00:31:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>64강. 조동사 “れる・られる”에는 4가지 뜻이 있다 :  초기본, 입문편! (2026년 6월호)</title>
+      <description>이마까라 니홍고 · 2026년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4823/episodes/25282252</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25282252</guid>
+      <pubDate>Mon, 01 Jun 2026 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2606imakara64.mp3" length="44561624" type="audio/mpeg"/>
+      <itunes:duration>00:53:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>63강. [어휘] 도나루토의 하루 15: 꽃 (2) (2026년 6월호)</title>
+      <description>이마까라 니홍고 · 2026년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4823/episodes/25282251</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25282251</guid>
+      <pubDate>Mon, 01 Jun 2026 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2606imakara63.mp3" length="41088455" type="audio/mpeg"/>
+      <itunes:duration>00:48:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>(아직도...) 멜론빵이 온다 (2) (2026년 6월호)</title>
+      <description>이마까라 니홍고 · 2026년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4823/episodes/25283093</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25283093</guid>
+      <pubDate>Mon, 01 Jun 2026 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2606imakaraFOOD.mp3" length="46550257" type="audio/mpeg"/>
+      <itunes:duration>00:31:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2026년 5월호)</title>
+      <description>이마까라 니홍고 · 2026년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4805/episodes/25271904</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25271904</guid>
+      <pubDate>Fri, 01 May 2026 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2605repeat.mp3" length="8808913" type="audio/mpeg"/>
+      <itunes:duration>00:10:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>62강. [어휘] 도나루토의 하루 14: 꽃 (2026년 5월호)</title>
+      <description>이마까라 니홍고 · 2026년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4805/episodes/25271902</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25271902</guid>
+      <pubDate>Fri, 01 May 2026 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2605imakara62.mp3" length="37844919" type="audio/mpeg"/>
+      <itunes:duration>00:45:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>멜론빵이 온다 (1) (2026년 5월호)</title>
+      <description>이마까라 니홍고 · 2026년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4805/episodes/25271905</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25271905</guid>
+      <pubDate>Fri, 01 May 2026 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2605imakarafood.mp3" length="37368902" type="audio/mpeg"/>
+      <itunes:duration>00:25:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>“곤나 칸지(이런 느낌)” 특집! (2026년 5월호)</title>
+      <description>이마까라 니홍고 · 2026년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4805/episodes/25271903</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25271903</guid>
+      <pubDate>Fri, 01 May 2026 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2605imakarakonna.mp3" length="16348936" type="audio/mpeg"/>
+      <itunes:duration>00:19:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>61강. “せる･させる”를 구사하기 위하여(4) (2026년 5월호)</title>
+      <description>이마까라 니홍고 · 2026년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4805/episodes/25271901</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25271901</guid>
+      <pubDate>Fri, 01 May 2026 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2605imakara61.mp3" length="38408258" type="audio/mpeg"/>
+      <itunes:duration>00:45:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>60강. “せる･させる”를 구사하기 위하여(3) (2026년 5월호)</title>
+      <description>이마까라 니홍고 · 2026년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4805/episodes/25271900</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25271900</guid>
+      <pubDate>Fri, 01 May 2026 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2605imakara60.mp3" length="41223563" type="audio/mpeg"/>
+      <itunes:duration>00:49:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2026년 4월호)</title>
+      <description>이마까라 니홍고 · 2026년 4월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4775/episodes/25260925</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25260925</guid>
+      <pubDate>Wed, 01 Apr 2026 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2604repeatRE.mp3" length="8178661" type="audio/mpeg"/>
+      <itunes:duration>00:09:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>59강. [어휘] 도나루토의 하루 13 : 스포츠! (2026년 4월호)</title>
+      <description>이마까라 니홍고 · 2026년 4월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4775/episodes/25260630</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25260630</guid>
+      <pubDate>Wed, 01 Apr 2026 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2604imakara59.mp3" length="37233821" type="audio/mpeg"/>
+      <itunes:duration>00:44:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>58강. せる･させる”를 구사하기 위하여(2) (2026년 4월호)</title>
+      <description>이마까라 니홍고 · 2026년 4월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4775/episodes/25260629</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25260629</guid>
+      <pubDate>Wed, 01 Apr 2026 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2604imakara58.mp3" length="41797505" type="audio/mpeg"/>
+      <itunes:duration>00:49:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>과자빵 3형제! 앙코, 잼, 크림! (2026년 4월호)</title>
+      <description>이마까라 니홍고 · 2026년 4월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4775/episodes/25260885</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25260885</guid>
+      <pubDate>Wed, 01 Apr 2026 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2603imakaraFOOD2.mp3" length="69168325" type="audio/mpeg"/>
+      <itunes:duration>00:46:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>“식빵”의 어원과 “잉글랜드” 빵에 감춰진 역사 (2026년 4월호)</title>
+      <description>이마까라 니홍고 · 2026년 4월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4775/episodes/25260628</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25260628</guid>
+      <pubDate>Wed, 01 Apr 2026 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2604food23.mp3" length="30675204" type="audio/mpeg"/>
+      <itunes:duration>00:36:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2026년 3월호)</title>
+      <description>이마까라 니홍고 · 2026년 3월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4719/episodes/25247407</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25247407</guid>
+      <pubDate>Sun, 01 Mar 2026 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2603repeat.mp3" length="7926773" type="audio/mpeg"/>
+      <itunes:duration>00:09:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>57강. “せる･させる”를 구사하기 위하여(1) (2026년 3월호)</title>
+      <description>이마까라 니홍고 · 2026년 3월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4719/episodes/25247424</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25247424</guid>
+      <pubDate>Sun, 01 Mar 2026 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2603imakara57.mp3" length="37102156" type="audio/mpeg"/>
+      <itunes:duration>00:44:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>56강. 사역의 조동사 “せる・させる” 등장! (2026년 3월호)</title>
+      <description>이마까라 니홍고 · 2026년 3월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4719/episodes/25248484</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25248484</guid>
+      <pubDate>Sun, 01 Mar 2026 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2603imakara56re.mp3" length="41879638" type="audio/mpeg"/>
+      <itunes:duration>00:49:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>멜론빵의 새벽이 오기 전 (2026년 3월호)</title>
+      <description>이마까라 니홍고 · 2026년 3월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4719/episodes/25247439</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25247439</guid>
+      <pubDate>Sun, 01 Mar 2026 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2603imakaraFOOD.mp3" length="44372626" type="audio/mpeg"/>
+      <itunes:duration>00:29:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>55강. [어휘] 도나루토의 하루 12: 체조 (2026년 3월호)</title>
+      <description>이마까라 니홍고 · 2026년 3월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4719/episodes/25248733</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25248733</guid>
+      <pubDate>Sun, 01 Mar 2026 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2603imakara55re.mp3" length="35999595" type="audio/mpeg"/>
+      <itunes:duration>00:42:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2026년 2월호)</title>
+      <description>이마까라 니홍고 · 2026년 2월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4692/episodes/25237217</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25237217</guid>
+      <pubDate>Sun, 01 Feb 2026 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2602repeatmp3.mp3" length="2745191" type="audio/mpeg"/>
+      <itunes:duration>00:03:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>육수와 간의 차이, 그리고 21세기 트렌드 (2026년 2월호)</title>
+      <description>이마까라 니홍고 · 2026년 2월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4692/episodes/25237196</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25237196</guid>
+      <pubDate>Sun, 01 Feb 2026 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2602imakarafood21.mp3" length="31618756" type="audio/mpeg"/>
+      <itunes:duration>00:37:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>3대 라-멘의 마지막, 그리고 라왕의 등장 (2026년 2월호)</title>
+      <description>이마까라 니홍고 · 2026년 2월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4692/episodes/25237195</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25237195</guid>
+      <pubDate>Sun, 01 Feb 2026 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2602imakarafood20.mp3" length="66415857" type="audio/mpeg"/>
+      <itunes:duration>00:45:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>54강-2. 동사의 自(자)･他(타)를 구분해 보자~ (2026년 2월호)</title>
+      <description>이마까라 니홍고 · 2026년 2월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4692/episodes/25237194</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25237194</guid>
+      <pubDate>Sun, 01 Feb 2026 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2602imakara54b.mp3" length="30905493" type="audio/mpeg"/>
+      <itunes:duration>00:36:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>54강-1. 동사의 自(자)･他(타)를 구분해 보자~ (2026년 2월호)</title>
+      <description>이마까라 니홍고 · 2026년 2월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4692/episodes/25237193</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25237193</guid>
+      <pubDate>Sun, 01 Feb 2026 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2602imakara54a.mp3" length="22075446" type="audio/mpeg"/>
+      <itunes:duration>00:26:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>53강-3. [어휘] 도나루토의 하루 11 : 첫 참배!! (2026년 2월호)</title>
+      <description>이마까라 니홍고 · 2026년 2월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4692/episodes/25237192</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25237192</guid>
+      <pubDate>Sun, 01 Feb 2026 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2602imakara53b.mp3" length="36646034" type="audio/mpeg"/>
+      <itunes:duration>00:43:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2026년 1월호)</title>
+      <description>이마까라 니홍고 · 2026년 1월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4627/episodes/25224990</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25224990</guid>
+      <pubDate>Thu, 01 Jan 2026 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2601repeat.mp3" length="13041449" type="audio/mpeg"/>
+      <itunes:duration>00:15:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>53강-2. 도나루토의 하루 11 : 첫 참배!! (2026년 1월호)</title>
+      <description>이마까라 니홍고 · 2026년 1월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4627/episodes/25224920</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25224920</guid>
+      <pubDate>Thu, 01 Jan 2026 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2601imakara53b.mp3" length="16141282" type="audio/mpeg"/>
+      <itunes:duration>00:19:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>53강-1. 도나루토의 하루 11 : 첫 참배!! (2026년 1월호)</title>
+      <description>이마까라 니홍고 · 2026년 1월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4627/episodes/25224919</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25224919</guid>
+      <pubDate>Thu, 01 Jan 2026 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2601imakara53a.mp3" length="29796034" type="audio/mpeg"/>
+      <itunes:duration>00:35:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>우연의 돈코츠, 노력의 미소 (2026년 1월호)</title>
+      <description>이마까라 니홍고 · 2026년 1월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4627/episodes/25225416</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25225416</guid>
+      <pubDate>Thu, 01 Jan 2026 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2601imakaraFOODre.mp3" length="70100613" type="audio/mpeg"/>
+      <itunes:duration>00:47:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>52강-2. [어휘] 도나루토의 하루 10 : 질감 (2) (2026년 1월호)</title>
+      <description>이마까라 니홍고 · 2026년 1월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4627/episodes/25225415</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25225415</guid>
+      <pubDate>Thu, 01 Jan 2026 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2601imakara52b2.mp3" length="20937057" type="audio/mpeg"/>
+      <itunes:duration>00:24:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>52강-1. [어휘] 도나루토의 하루 10 : 질감 (2) (2026년 1월호)</title>
+      <description>이마까라 니홍고 · 2026년 1월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4627/episodes/25224917</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25224917</guid>
+      <pubDate>Thu, 01 Jan 2026 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2601imakara52a.mp3" length="27792643" type="audio/mpeg"/>
+      <itunes:duration>00:33:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2025년 12월호)</title>
+      <description>이마까라 니홍고 · 2025년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4596/episodes/25213875</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25213875</guid>
+      <pubDate>Mon, 01 Dec 2025 12:09:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2512repeat.mp3" length="6673420" type="audio/mpeg"/>
+      <itunes:duration>00:07:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>〈이마까라 니홍고〉 중대 발표! (2025년 12월호)</title>
+      <description>이마까라 니홍고 · 2025년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4596/episodes/25215005</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25215005</guid>
+      <pubDate>Mon, 01 Dec 2025 12:08:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2512notice3.mp3" length="14108127" type="audio/mpeg"/>
+      <itunes:duration>00:16:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>51강-2. [어휘] 도나루토의 하루 9 : 질감 (1) (2025년 12월호)</title>
+      <description>이마까라 니홍고 · 2025년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4596/episodes/25213856</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25213856</guid>
+      <pubDate>Mon, 01 Dec 2025 12:07:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2512imakara51b.mp3" length="18367737" type="audio/mpeg"/>
+      <itunes:duration>00:21:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>51강-1. [어휘] 도나루토의 하루 9 : 질감 (1) (2025년 12월호)</title>
+      <description>이마까라 니홍고 · 2025년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4596/episodes/25213855</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25213855</guid>
+      <pubDate>Mon, 01 Dec 2025 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2512imakara51a.mp3" length="24441645" type="audio/mpeg"/>
+      <itunes:duration>00:29:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>라-멘의 기원과 라-멘 빅뱅 (2025년 12월호)</title>
+      <description>이마까라 니홍고 · 2025년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4596/episodes/25213858</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25213858</guid>
+      <pubDate>Mon, 01 Dec 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2512imakaraFOODb.mp3" length="25336003" type="audio/mpeg"/>
+      <itunes:duration>00:30:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>일본인의 국민식, 라-멘이란 무엇인가. 대장정의 시작 (2025년 12월호)</title>
+      <description>이마까라 니홍고 · 2025년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4596/episodes/25214253</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25214253</guid>
+      <pubDate>Mon, 01 Dec 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2512imakaraFOODaRE.mp3" length="25112777" type="audio/mpeg"/>
+      <itunes:duration>00:29:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>50강-2. 기본형과 ている의 쓰임새를 이해하자! (2025년 12월호)</title>
+      <description>이마까라 니홍고 · 2025년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4596/episodes/25213854</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25213854</guid>
+      <pubDate>Mon, 01 Dec 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2512imakara50b.mp3" length="25973193" type="audio/mpeg"/>
+      <itunes:duration>00:30:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>50강-1. 知(し)る는  “알다”가 아니라고!? (2025년 12월호)</title>
+      <description>이마까라 니홍고 · 2025년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4596/episodes/25213853</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25213853</guid>
+      <pubDate>Mon, 01 Dec 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2512imakara50a.mp3" length="23779030" type="audio/mpeg"/>
+      <itunes:duration>00:28:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>49강. ている가 가진 세 얼굴! : 당신의 일본어를 확 바꾸는 마법의 지팡이! (2025년 12월호)</title>
+      <description>이마까라 니홍고 · 2025년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4596/episodes/25214249</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25214249</guid>
+      <pubDate>Mon, 01 Dec 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2512imakara49re.mp3" length="35893082" type="audio/mpeg"/>
+      <itunes:duration>00:42:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2025년 11월호)</title>
+      <description>이마까라 니홍고 · 2025년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4531/episodes/25201677</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25201677</guid>
+      <pubDate>Sat, 01 Nov 2025 12:07:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2511repeat.mp3" length="3341182" type="audio/mpeg"/>
+      <itunes:duration>00:03:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>48강-2. です는 통 큰 죽돌! (2025년 11월호)</title>
+      <description>이마까라 니홍고 · 2025년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4531/episodes/25200249</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25200249</guid>
+      <pubDate>Sat, 01 Nov 2025 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2511imakara48b.mp3" length="24252113" type="audio/mpeg"/>
+      <itunes:duration>00:28:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>48강-1. 대화의 기초는 です･ます입니다! (2) (2025년 11월호)</title>
+      <description>이마까라 니홍고 · 2025년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4531/episodes/25200248</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25200248</guid>
+      <pubDate>Sat, 01 Nov 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2511imakara48a.mp3" length="37485017" type="audio/mpeg"/>
+      <itunes:duration>00:44:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>니혼슈, 어디서 마실까? (2025년 11월호)</title>
+      <description>이마까라 니홍고 · 2025년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4531/episodes/25201614</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25201614</guid>
+      <pubDate>Sat, 01 Nov 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2511imakaraFOOD2re.mp3" length="37326281" type="audio/mpeg"/>
+      <itunes:duration>00:42:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>식은 사케와 아버지의 잔소리는 나중에 효과 난다! (2025년 11월호)</title>
+      <description>이마까라 니홍고 · 2025년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4531/episodes/25198046</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25198046</guid>
+      <pubDate>Sat, 01 Nov 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2511imakaraFOOD1.mp3" length="33539502" type="audio/mpeg"/>
+      <itunes:duration>00:39:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>47-2. ません의 비밀을 대공개! (2025년 11월호)</title>
+      <description>이마까라 니홍고 · 2025년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4531/episodes/25198045</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25198045</guid>
+      <pubDate>Sat, 01 Nov 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2511imakara47b.mp3" length="25339487" type="audio/mpeg"/>
+      <itunes:duration>00:30:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>47강-1. 대화의 기초는 です･ます입니다! (1) (2025년 11월호)</title>
+      <description>이마까라 니홍고 · 2025년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4531/episodes/25198044</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25198044</guid>
+      <pubDate>Sat, 01 Nov 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2511imakara47a.mp3" length="25953653" type="audio/mpeg"/>
+      <itunes:duration>00:30:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2025년 10월호)</title>
+      <description>이마까라 니홍고 · 2025년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4507/episodes/25189197</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25189197</guid>
+      <pubDate>Wed, 01 Oct 2025 12:07:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2510repeat.mp3" length="8001530" type="audio/mpeg"/>
+      <itunes:duration>00:09:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>니혼슈는 2가지 잣대로 파악하라! (2025년 10월호)</title>
+      <description>이마까라 니홍고 · 2025년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4507/episodes/25189536</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25189536</guid>
+      <pubDate>Wed, 01 Oct 2025 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2510imakara162re.mp3" length="38477723" type="audio/mpeg"/>
+      <itunes:duration>00:45:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>오늘 같이 한잔할래? (2025년 10월호)</title>
+      <description>이마까라 니홍고 · 2025년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4507/episodes/25189534</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25189534</guid>
+      <pubDate>Wed, 01 Oct 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2510imakara161.mp3" length="29970878" type="audio/mpeg"/>
+      <itunes:duration>00:34:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>46강-2. [어휘] 춘하추동과 하이쿠 (2025년 10월호)</title>
+      <description>이마까라 니홍고 · 2025년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4507/episodes/25187206</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25187206</guid>
+      <pubDate>Wed, 01 Oct 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2510imakara462.mp3" length="25414188" type="audio/mpeg"/>
+      <itunes:duration>00:30:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>46강-1. [어휘] 도나루토의 하루 (8) (2025년 10월호)</title>
+      <description>이마까라 니홍고 · 2025년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4507/episodes/25187205</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25187205</guid>
+      <pubDate>Wed, 01 Oct 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2510imakara461.mp3" length="26436659" type="audio/mpeg"/>
+      <itunes:duration>00:31:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>45강-2. 너무나 대담한 な형용사 분류론! (2025년 10월호)</title>
+      <description>이마까라 니홍고 · 2025년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4507/episodes/25187204</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25187204</guid>
+      <pubDate>Wed, 01 Oct 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2510imakara452.mp3" length="27311660" type="audio/mpeg"/>
+      <itunes:duration>00:32:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>45강-1. な형용사의 애매함을 확실히 잡자! (2025년 10월호)</title>
+      <description>이마까라 니홍고 · 2025년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4507/episodes/25187203</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25187203</guid>
+      <pubDate>Wed, 01 Oct 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2510imakara451.mp3" length="32508530" type="audio/mpeg"/>
+      <itunes:duration>00:38:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2025년 9월호)</title>
+      <description>이마까라 니홍고 · 2025년 9월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4470/episodes/25177121</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25177121</guid>
+      <pubDate>Mon, 01 Sep 2025 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2509repeat2.mp3" length="7773414" type="audio/mpeg"/>
+      <itunes:duration>00:09:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>아마테라스 남동생과 일본술~ (2025년 9월호)</title>
+      <description>이마까라 니홍고 · 2025년 9월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4470/episodes/25177138</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25177138</guid>
+      <pubDate>Mon, 01 Sep 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2509imakara15foodRE.mp3" length="48072801" type="audio/mpeg"/>
+      <itunes:duration>00:55:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>44강. な형용사의 기원은 [명사]+だ에 있다! 그 근본적 이해를 위하여~ (2025년 9월호)</title>
+      <description>이마까라 니홍고 · 2025년 9월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4470/episodes/25176701</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25176701</guid>
+      <pubDate>Mon, 01 Sep 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2509imakara44.mp3" length="39686232" type="audio/mpeg"/>
+      <itunes:duration>00:47:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>43강. い형용사 활용은 넘 쉬워  2  그리고 보조동사 (2부) (2025년 9월호)</title>
+      <description>이마까라 니홍고 · 2025년 9월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4470/episodes/25176700</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25176700</guid>
+      <pubDate>Mon, 01 Sep 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2509imakara43b.mp3" length="20241651" type="audio/mpeg"/>
+      <itunes:duration>00:24:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>43강. い형용사 활용은 넘 쉬워  2  그리고 보조동사 (1부) (2025년 9월호)</title>
+      <description>이마까라 니홍고 · 2025년 9월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4470/episodes/25176699</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25176699</guid>
+      <pubDate>Mon, 01 Sep 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2509imakara43a.mp3" length="27603390" type="audio/mpeg"/>
+      <itunes:duration>00:32:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>42강. い형용사 활용은 넘 쉬워 １ (2025년 9월호)</title>
+      <description>이마까라 니홍고 · 2025년 9월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4470/episodes/25177139</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25177139</guid>
+      <pubDate>Mon, 01 Sep 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2509imakara42re.mp3" length="34797162" type="audio/mpeg"/>
+      <itunes:duration>00:41:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2025년 8월호)</title>
+      <description>이마까라 니홍고 · 2025년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4449/episodes/25163610</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25163610</guid>
+      <pubDate>Fri, 01 Aug 2025 12:07:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2508repeatRE.mp3" length="6207710" type="audio/mpeg"/>
+      <itunes:duration>00:07:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>41강. 사람에게 상냥하게~ い형용사 도입은 쉽게! (2025년 8월호)</title>
+      <description>이마까라 니홍고 · 2025년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4449/episodes/25163582</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25163582</guid>
+      <pubDate>Fri, 01 Aug 2025 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2508imakara41.mp3" length="31727110" type="audio/mpeg"/>
+      <itunes:duration>00:37:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>40강. [어휘] 도나루토의 하루 (7) 취미! -2부 (2025년 8월호)</title>
+      <description>이마까라 니홍고 · 2025년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4449/episodes/25163581</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25163581</guid>
+      <pubDate>Fri, 01 Aug 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2508imakara40b.mp3" length="21376013" type="audio/mpeg"/>
+      <itunes:duration>00:25:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>40강. [어휘] 도나루토의 하루 (7) 취미! -1부 (2025년 8월호)</title>
+      <description>이마까라 니홍고 · 2025년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4449/episodes/25163611</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25163611</guid>
+      <pubDate>Fri, 01 Aug 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2508imakara40a.mp3" length="58757946" type="audio/mpeg"/>
+      <itunes:duration>00:40:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>39강. する･やる 그랜드 피날레는 미묘~하게~ (2025년 8월호)</title>
+      <description>이마까라 니홍고 · 2025년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4449/episodes/25163580</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25163580</guid>
+      <pubDate>Fri, 01 Aug 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2508imakara39.mp3" length="44525122" type="audio/mpeg"/>
+      <itunes:duration>00:52:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>카레에는 일본의 근현대사가 녹아있다! (2025년 8월호)</title>
+      <description>이마까라 니홍고 · 2025년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4449/episodes/25163579</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25163579</guid>
+      <pubDate>Fri, 01 Aug 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2508imakara14food.mp3" length="38568490" type="audio/mpeg"/>
+      <itunes:duration>00:45:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>“카레 대국“ 일본의 탄생 (2025년 8월호)</title>
+      <description>이마까라 니홍고 · 2025년 8월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4449/episodes/25163578</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25163578</guid>
+      <pubDate>Fri, 01 Aug 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2508imakara13food.mp3" length="45589807" type="audio/mpeg"/>
+      <itunes:duration>00:54:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2025년 7월호)</title>
+      <description>이마까라 니홍고 · 2025년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4410/episodes/25151122</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25151122</guid>
+      <pubDate>Tue, 01 Jul 2025 12:07:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2507repeat.mp3" length="9134690" type="audio/mpeg"/>
+      <itunes:duration>00:10:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>카레는 커리가 아니다! (2025년 7월호)</title>
+      <description>이마까라 니홍고 · 2025년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4410/episodes/25150956</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25150956</guid>
+      <pubDate>Tue, 01 Jul 2025 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2507imakaraFOOD.mp3" length="33975998" type="audio/mpeg"/>
+      <itunes:duration>00:40:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>38강. 2부) 그래서 문맥과 관용구가 중요한 거야~ (2025년 7월호)</title>
+      <description>이마까라 니홍고 · 2025년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4410/episodes/25150995</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25150995</guid>
+      <pubDate>Tue, 01 Jul 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2507imakara38b.mp3" length="26733298" type="audio/mpeg"/>
+      <itunes:duration>00:31:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>38강. 1부) やる의 핵심은 “포괄성”! (2025년 7월호)</title>
+      <description>이마까라 니홍고 · 2025년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4410/episodes/25150994</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25150994</guid>
+      <pubDate>Tue, 01 Jul 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2507imakara38a.mp3" length="25229984" type="audio/mpeg"/>
+      <itunes:duration>00:29:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>37강. [어휘] 도나루토의 하루(6) 맛! (2025년 7월호)</title>
+      <description>이마까라 니홍고 · 2025년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4410/episodes/25149522</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25149522</guid>
+      <pubDate>Tue, 01 Jul 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2507imakara37.mp3" length="72051503" type="audio/mpeg"/>
+      <itunes:duration>00:49:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>36강. 의성어/의태어에 する를 붙여보자! (2025년 7월호)</title>
+      <description>이마까라 니홍고 · 2025년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4410/episodes/25151032</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25151032</guid>
+      <pubDate>Tue, 01 Jul 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2507imakara36.mp3" length="34604344" type="audio/mpeg"/>
+      <itunes:duration>00:41:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>35강. 1대1 번역이 통하지 않는 する의 세계 (2025년 7월호)</title>
+      <description>이마까라 니홍고 · 2025년 7월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4410/episodes/25150975</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25150975</guid>
+      <pubDate>Tue, 01 Jul 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2507imakara35.mp3" length="39682063" type="audio/mpeg"/>
+      <itunes:duration>00:47:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2025년 6월호)</title>
+      <description>이마까라 니홍고 · 2025년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4377/episodes/25138968</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25138968</guid>
+      <pubDate>Sun, 01 Jun 2025 12:07:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2506repeatFIN.mp3" length="4991239" type="audio/mpeg"/>
+      <itunes:duration>00:05:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>34강. [어휘] 도나루토의 하루(5) 좀!! (2025년 6월호)</title>
+      <description>이마까라 니홍고 · 2025년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4377/episodes/25137965</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25137965</guid>
+      <pubDate>Sun, 01 Jun 2025 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2506imakara34.mp3" length="39023359" type="audio/mpeg"/>
+      <itunes:duration>00:46:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>33강. する만 된다고!? 왜? (2부) (2025년 6월호)</title>
+      <description>이마까라 니홍고 · 2025년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4377/episodes/25137964</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25137964</guid>
+      <pubDate>Sun, 01 Jun 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2506imakara33b.mp3" length="19111817" type="audio/mpeg"/>
+      <itunes:duration>00:22:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>33강. する만 된다고!? 왜? (1부) (2025년 6월호)</title>
+      <description>이마까라 니홍고 · 2025년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4377/episodes/25138300</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25138300</guid>
+      <pubDate>Sun, 01 Jun 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2506imakara33a.mp3" length="24742778" type="audio/mpeg"/>
+      <itunes:duration>00:29:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>32강. する vs やる - 단순한 “어감 차이”를 넘어라!! (2025년 6월호)</title>
+      <description>이마까라 니홍고 · 2025년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4377/episodes/25138533</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25138533</guid>
+      <pubDate>Sun, 01 Jun 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2506imakara32re.mp3" length="41440463" type="audio/mpeg"/>
+      <itunes:duration>00:49:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>무관의 제왕 “하카타 우동” (2025년 6월호)</title>
+      <description>이마까라 니홍고 · 2025년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4377/episodes/25137961</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25137961</guid>
+      <pubDate>Sun, 01 Jun 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2506imakaraFOOD11.mp3" length="38872651" type="audio/mpeg"/>
+      <itunes:duration>00:46:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>사누키 우동이 일본 우동의 표준아이가 (2025년 6월호)</title>
+      <description>이마까라 니홍고 · 2025년 6월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4377/episodes/25138528</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25138528</guid>
+      <pubDate>Sun, 01 Jun 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2506imakaraFOOD10re.mp3" length="45839544" type="audio/mpeg"/>
+      <itunes:duration>00:53:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>듣고 따라하세요! (2025년 5월호)</title>
+      <description>이마까라 니홍고 · 2025년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4335/episodes/25125316</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25125316</guid>
+      <pubDate>Thu, 01 May 2025 12:08:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2505LR.mp3" length="8062502" type="audio/mpeg"/>
+      <itunes:duration>00:09:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>일본 컵우동, 같은 라벨이지만 맛이 다른 이유 (2025년 5월호)</title>
+      <description>이마까라 니홍고 · 2025년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4335/episodes/25125150</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25125150</guid>
+      <pubDate>Thu, 01 May 2025 12:07:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2505imakaraFOOD9.mp3" length="39711679" type="audio/mpeg"/>
+      <itunes:duration>00:27:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>31강. “する” 에 익숙해지자 (2025년 5월호)</title>
+      <description>이마까라 니홍고 · 2025년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4335/episodes/25125167</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25125167</guid>
+      <pubDate>Thu, 01 May 2025 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2505imakara31.mp3" length="22462846" type="audio/mpeg"/>
+      <itunes:duration>00:26:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>30강. “来(く)る”에 익숙해지자 (2025년 5월호)</title>
+      <description>이마까라 니홍고 · 2025년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4335/episodes/25125166</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25125166</guid>
+      <pubDate>Thu, 01 May 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2505imakara30.mp3" length="25166099" type="audio/mpeg"/>
+      <itunes:duration>00:29:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>서일본(西日本) 면요리계의 패자, 우동 (2025년 5월호)</title>
+      <description>이마까라 니홍고 · 2025년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4335/episodes/25124210</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25124210</guid>
+      <pubDate>Thu, 01 May 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2505imakaraFOOD8.mp3" length="66869602" type="audio/mpeg"/>
+      <itunes:duration>00:45:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>29강. [어휘] 도나루토의 하루(4) 색깔! (2025년 5월호)</title>
+      <description>이마까라 니홍고 · 2025년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4335/episodes/25123892</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25123892</guid>
+      <pubDate>Thu, 01 May 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2505imakara29FIN.mp3" length="43435329" type="audio/mpeg"/>
+      <itunes:duration>00:51:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>28강. 来る와 する는 무조건 외워라!! (2025년 5월호)</title>
+      <description>이마까라 니홍고 · 2025년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4335/episodes/25125204</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25125204</guid>
+      <pubDate>Thu, 01 May 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2505imakara28FINmp3.mp3" length="36703443" type="audio/mpeg"/>
+      <itunes:duration>00:43:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>27강. [어휘] 도나루토의 하루(3) (아랫도리를)입다! (2025년 5월호)</title>
+      <description>이마까라 니홍고 · 2025년 5월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4335/episodes/25142460</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25142460</guid>
+      <pubDate>Thu, 01 May 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2505imakara27re.mp3" length="27932583" type="audio/mpeg"/>
+      <itunes:duration>00:33:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>26강. [어휘]도나루토의 하루(2) 갈아입다! (2025년 4월호)</title>
+      <description>이마까라 니홍고 · 2025년 4월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4289/episodes/25112255</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25112255</guid>
+      <pubDate>Tue, 01 Apr 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2504imakara26.mp3" length="43415127" type="audio/mpeg"/>
+      <itunes:duration>00:51:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>스키야키, 어디서 먹어? (2025년 4월호)</title>
+      <description>이마까라 니홍고 · 2025년 4월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4289/episodes/25112259</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25112259</guid>
+      <pubDate>Tue, 01 Apr 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2504imakaraFOOD2.mp3" length="43444684" type="audio/mpeg"/>
+      <itunes:duration>00:51:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>이제 스키야키 세계로!! (2025년 4월호)</title>
+      <description>이마까라 니홍고 · 2025년 4월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4289/episodes/25113785</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25113785</guid>
+      <pubDate>Tue, 01 Apr 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2504imakaraFOOD1re.mp3" length="44287480" type="audio/mpeg"/>
+      <itunes:duration>00:50:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>25강. 5단 동사 활용은 오늘로 진짜 끝! (2025년 4월호)</title>
+      <description>이마까라 니홍고 · 2025년 4월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4289/episodes/25105122</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25105122</guid>
+      <pubDate>Tue, 01 Apr 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2504imakara25.mp3" length="41624117" type="audio/mpeg"/>
+      <itunes:duration>00:49:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>24강. 5단 동사 활용은 오늘로 끝! (2025년 4월호)</title>
+      <description>이마까라 니홍고 · 2025년 4월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4289/episodes/25105121</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25105121</guid>
+      <pubDate>Tue, 01 Apr 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2504imakara24.mp3" length="39851717" type="audio/mpeg"/>
+      <itunes:duration>00:47:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>스키야키 프롤로그 - 일본의 육식문화 (2025년 3월호)</title>
+      <description>이마까라 니홍고 · 2025년 3월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4273/episodes/25097588</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25097588</guid>
+      <pubDate>Sat, 01 Mar 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2503imakaraFOODre.mp3" length="50372866" type="audio/mpeg"/>
+      <itunes:duration>00:58:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>23강. [어휘] 도나루토의 하루, 일어나다! (2025년 3월호)</title>
+      <description>이마까라 니홍고 · 2025년 3월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4273/episodes/25097587</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25097587</guid>
+      <pubDate>Sat, 01 Mar 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2503imakara23re.mp3" length="51824235" type="audio/mpeg"/>
+      <itunes:duration>01:01:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>22강. 5단 동사, 기본형, 연체형, 가정형은 넘 쉬워！ (2025년 3월호)</title>
+      <description>이마까라 니홍고 · 2025년 3월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4273/episodes/25095578</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25095578</guid>
+      <pubDate>Sat, 01 Mar 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2503imakara22.mp3" length="41874536" type="audio/mpeg"/>
+      <itunes:duration>00:49:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>21강. 5단 동사, て형・た형도 노래하면 껌이지! (2025년 3월호)</title>
+      <description>이마까라 니홍고 · 2025년 3월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4273/episodes/25097254</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25097254</guid>
+      <pubDate>Sat, 01 Mar 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2503imakara21re.mp3" length="45775111" type="audio/mpeg"/>
+      <itunes:duration>00:54:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>20강. 진격의 5단 동사, 노래로 승부! (2025년 3월호)</title>
+      <description>이마까라 니홍고 · 2025년 3월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4273/episodes/25094645</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25094645</guid>
+      <pubDate>Sat, 01 Mar 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2503imakara20.mp3" length="45121521" type="audio/mpeg"/>
+      <itunes:duration>00:53:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>19강. “쉬운 1단동사”에 숨은 저승사자, あげる와 くれる (2) (2025년 2월호)</title>
+      <description>이마까라 니홍고 · 2025년 2월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4243/episodes/25089671</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25089671</guid>
+      <pubDate>Sat, 01 Feb 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2502imakara19re2.mp3" length="43862234" type="audio/mpeg"/>
+      <itunes:duration>00:52:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>18강. “쉬운 1단동사”에 숨은 저승사자, あげる와 くれる (1) (2025년 2월호)</title>
+      <description>이마까라 니홍고 · 2025년 2월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4243/episodes/25084076</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25084076</guid>
+      <pubDate>Sat, 01 Feb 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2502imakara18.mp3" length="50622404" type="audio/mpeg"/>
+      <itunes:duration>01:00:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>17강. 1단동사 총정리! 그리고 5단동사로! (2) (2025년 2월호)</title>
+      <description>이마까라 니홍고 · 2025년 2월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4243/episodes/25083684</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25083684</guid>
+      <pubDate>Sat, 01 Feb 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2502imakara17.mp3" length="47028487" type="audio/mpeg"/>
+      <itunes:duration>00:55:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>16강. 1단동사 총정리! 그리고 5단동사로! (1) (2025년 2월호)</title>
+      <description>이마까라 니홍고 · 2025년 2월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4243/episodes/25083683</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25083683</guid>
+      <pubDate>Sat, 01 Feb 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2502imakara16re.mp3" length="44723678" type="audio/mpeg"/>
+      <itunes:duration>00:53:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>일본의 설 음식, 오세치요리 大해부! (2025년 2월호)</title>
+      <description>이마까라 니홍고 · 2025년 2월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4243/episodes/25083681</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25083681</guid>
+      <pubDate>Sat, 01 Feb 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2502imakaraFOOD.mp3" length="39578551" type="audio/mpeg"/>
+      <itunes:duration>00:45:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[특집] 일본 설은 어떤 풍경일까 (2025년 1월호)</title>
+      <description>이마까라 니홍고 · 2025년 1월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4202/episodes/25069751</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25069751</guid>
+      <pubDate>Wed, 01 Jan 2025 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2501imakaraSPECIAL.mp3" length="45887856" type="audio/mpeg"/>
+      <itunes:duration>00:54:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>15강. 1단 동사 활용은 쉬워요~ (2025년 1월호)</title>
+      <description>이마까라 니홍고 · 2025년 1월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4202/episodes/25069743</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25069743</guid>
+      <pubDate>Wed, 01 Jan 2025 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2501imakara15.mp3" length="43439088" type="audio/mpeg"/>
+      <itunes:duration>00:51:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>14강. 1단 동사(2류 혹은 2그룹)가 뭐야? (2025년 1월호)</title>
+      <description>이마까라 니홍고 · 2025년 1월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4202/episodes/25070061</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25070061</guid>
+      <pubDate>Wed, 01 Jan 2025 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2501imakara14re.mp3" length="49894540" type="audio/mpeg"/>
+      <itunes:duration>00:59:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>13강. 복습과 동사 활용 워밍업！ (2025년 1월호)</title>
+      <description>이마까라 니홍고 · 2025년 1월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4202/episodes/25070067</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25070067</guid>
+      <pubDate>Wed, 01 Jan 2025 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2501imakara13re.mp3" length="48939385" type="audio/mpeg"/>
+      <itunes:duration>00:58:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>일본을 이해하려면 양식을 먹어야 한다 (2) (2025년 1월호)</title>
+      <description>이마까라 니홍고 · 2025년 1월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4202/episodes/25069744</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25069744</guid>
+      <pubDate>Wed, 01 Jan 2025 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2501imakaraFOOD.mp3" length="41812800" type="audio/mpeg"/>
+      <itunes:duration>00:48:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>일본을 이해하려면 양식을 먹어야 한다(1) (2024년 12월호)</title>
+      <description>이마까라 니홍고 · 2024년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4177/episodes/25051943</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25051943</guid>
+      <pubDate>Sun, 01 Dec 2024 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2412imakaraFOODre.mp3" length="44064698" type="audio/mpeg"/>
+      <itunes:duration>00:50:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>12강. です는 간단합니다 (2024년 12월호)</title>
+      <description>이마까라 니홍고 · 2024년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4177/episodes/25050223</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25050223</guid>
+      <pubDate>Sun, 01 Dec 2024 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2412imakara12.mp3" length="49826686" type="audio/mpeg"/>
+      <itunes:duration>00:59:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>11강. 읏흥~ 방 안에는 무엇이 있을까~ (2024년 12월호)</title>
+      <description>이마까라 니홍고 · 2024년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4177/episodes/25051610</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25051610</guid>
+      <pubDate>Sun, 01 Dec 2024 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2412imakara11re3.mp3" length="45332915" type="audio/mpeg"/>
+      <itunes:duration>00:53:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10강. “있다&quot;에는 “ある”와 “いる”가 있다! 2탄 (2024년 12월호)</title>
+      <description>이마까라 니홍고 · 2024년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4177/episodes/25048120</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25048120</guid>
+      <pubDate>Sun, 01 Dec 2024 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2412imakara10.mp3" length="41140615" type="audio/mpeg"/>
+      <itunes:duration>00:48:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>9강. “있다&quot;에는 “ある”와 “いる”가 있다! 1탄 (2024년 12월호)</title>
+      <description>이마까라 니홍고 · 2024년 12월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4177/episodes/25041327</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25041327</guid>
+      <pubDate>Sun, 01 Dec 2024 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2412imakara9.mp3" length="44745506" type="audio/mpeg"/>
+      <itunes:duration>00:53:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2식. 어쩌다보니 소바 세계 대모험(2) (2024년 11월호)</title>
+      <description>이마까라 니홍고 · 2024년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4097/episodes/25025234</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25025234</guid>
+      <pubDate>Fri, 01 Nov 2024 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2411imakaraFOOD.mp3" length="46877042" type="audio/mpeg"/>
+      <itunes:duration>00:55:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>8강. 니들이 숫자를 알어? 1부터 100 (2024년 11월호)</title>
+      <description>이마까라 니홍고 · 2024년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4097/episodes/25025865</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25025865</guid>
+      <pubDate>Fri, 01 Nov 2024 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2411imakara8re.mp3" length="39196049" type="audio/mpeg"/>
+      <itunes:duration>00:46:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>7강. 일본어의 큰 그림을 그려보자! 기본형이 뭐야? (2024년 11월호)</title>
+      <description>이마까라 니홍고 · 2024년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4097/episodes/25098897</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25098897</guid>
+      <pubDate>Fri, 01 Nov 2024 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2411imakara7kickdel.mp3" length="41188708" type="audio/mpeg"/>
+      <itunes:duration>00:49:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>6강. 이/가, 을/를, 에, 랑. 조사를 조사뿔자. (2024년 11월호)</title>
+      <description>이마까라 니홍고 · 2024년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4097/episodes/25025239</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25025239</guid>
+      <pubDate>Fri, 01 Nov 2024 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2411imakara6ree.mp3" length="46813743" type="audio/mpeg"/>
+      <itunes:duration>00:55:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>5강. 아나따, 오마에같은 2인칭은 웬만하면 쓰지마라 (2024년 11월호)</title>
+      <description>이마까라 니홍고 · 2024년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4097/episodes/25025194</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25025194</guid>
+      <pubDate>Fri, 01 Nov 2024 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2411imakara5re.mp3" length="45045217" type="audio/mpeg"/>
+      <itunes:duration>00:53:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>어쩌다보니 소바 세계 대모험(1) (2024년 10월호)</title>
+      <description>이마까라 니홍고 · 2024년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4073/episodes/25004857</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25004857</guid>
+      <pubDate>Tue, 01 Oct 2024 12:06:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2410imakara5.mp3" length="46786001" type="audio/mpeg"/>
+      <itunes:duration>00:55:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>4강. 오레, 보쿠, 와따시, 와따쿠시의 미묘한 뉘앙스 (2024년 10월호)</title>
+      <description>이마까라 니홍고 · 2024년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4073/episodes/25004856</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25004856</guid>
+      <pubDate>Tue, 01 Oct 2024 12:05:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2410imakara4.mp3" length="42998780" type="audio/mpeg"/>
+      <itunes:duration>00:51:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>3강. 존경어, 겸양어, 정중어는 뭐가 다른 걸까? (2024년 10월호)</title>
+      <description>이마까라 니홍고 · 2024년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4073/episodes/25004855</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25004855</guid>
+      <pubDate>Tue, 01 Oct 2024 12:04:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2410imakara3.mp3" length="44490746" type="audio/mpeg"/>
+      <itunes:duration>00:52:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2강. 히라가나, 카타카나의 전설. 그리고 ”~님”은 안돼! (2024년 10월호)</title>
+      <description>이마까라 니홍고 · 2024년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4073/episodes/25004854</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25004854</guid>
+      <pubDate>Tue, 01 Oct 2024 12:03:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2410imakara2.mp3" length="48991916" type="audio/mpeg"/>
+      <itunes:duration>00:58:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>1강. 곤니찌와, 곤방와, 오하요-의 비밀 (2024년 10월호)</title>
+      <description>이마까라 니홍고 · 2024년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4073/episodes/25005325</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25005325</guid>
+      <pubDate>Tue, 01 Oct 2024 12:02:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2410imakara1re.mp3" length="48605706" type="audio/mpeg"/>
+      <itunes:duration>00:57:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>어디까지나 교육방송입니다! (2024년 10월호)</title>
+      <description>이마까라 니홍고 · 2024년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4073/episodes/25004852</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25004852</guid>
+      <pubDate>Tue, 01 Oct 2024 12:01:00 GMT</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2410imakara0.mp3" length="15784837" type="audio/mpeg"/>
+      <itunes:duration>00:18:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
