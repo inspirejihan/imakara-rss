@@ -8,7 +8,7 @@
     <description>마사오와 죽돌이의 일본어 교육방송 — 팟빵 오디오 매거진의 비공식 개인 구독용 RSS</description>
     <language>ko-kr</language>
     <copyright>팟빵</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 06:34:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:56:52 +0000</lastBuildDate>
     <generator>Custom RSS generated from publicly listed Podbbang magazine episodes</generator>
     <image>
       <url>https://inspirejihan.github.io/imakara-rss/imakara_nihongo_cover.jpg</url>
@@ -22,6 +22,56 @@
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <itunes:image href="https://inspirejihan.github.io/imakara-rss/imakara_nihongo_cover.jpg"/>
+    <item>
+      <title>듣고 따라하세요! (2026년 10월호)</title>
+      <description>이마까라 니홍고 · 2026년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4941/episodes/25327108</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25327108</guid>
+      <pubDate>Thu, 01 Oct 2026 12:05:00 +0000</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2610repeatRE.mp3" length="6085017" type="audio/mpeg"/>
+      <itunes:duration>00:07:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>장어 1: 제철은 바로 지금! (2026년 10월호)</title>
+      <description>이마까라 니홍고 · 2026년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4941/episodes/25327096</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25327096</guid>
+      <pubDate>Thu, 01 Oct 2026 12:04:00 +0000</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2610imakara29food.mp3" length="38750053" type="audio/mpeg"/>
+      <itunes:duration>00:46:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>76강. れる・られる 없는 존경어 0: 알고보면 너무 쉬운 존경어의 세계 (2026년 10월호)</title>
+      <description>이마까라 니홍고 · 2026년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4941/episodes/25327095</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25327095</guid>
+      <pubDate>Thu, 01 Oct 2026 12:03:00 +0000</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2610imakara76.mp3" length="29729850" type="audio/mpeg"/>
+      <itunes:duration>00:35:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>75강. [어휘] 도나루토의 하루 (20): 철도 3 (2026년 10월호)</title>
+      <description>이마까라 니홍고 · 2026년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4941/episodes/25323033</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25323033</guid>
+      <pubDate>Thu, 01 Oct 2026 12:02:00 +0000</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2610imakara75.mp3" length="48250269" type="audio/mpeg"/>
+      <itunes:duration>00:57:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>74강. [어휘] 도나루토의 하루 (19): 철도 2 (2026년 10월호)</title>
+      <description>이마까라 니홍고 · 2026년 10월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/4941/episodes/25323032</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25323032</guid>
+      <pubDate>Thu, 01 Oct 2026 12:01:00 +0000</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2610imakara74.mp3" length="36986437" type="audio/mpeg"/>
+      <itunes:duration>00:43:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>듣고 따라하세요! (2026년 9월호)</title>
       <description>이마까라 니홍고 · 2026년 9월호</description>
