@@ -8,7 +8,7 @@
     <description>마사오와 죽돌이의 일본어 교육방송 — 팟빵 오디오 매거진의 비공식 개인 구독용 RSS</description>
     <language>ko-kr</language>
     <copyright>팟빵</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 07:56:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 08:19:40 +0000</lastBuildDate>
     <generator>Custom RSS generated from publicly listed Podbbang magazine episodes</generator>
     <image>
       <url>https://inspirejihan.github.io/imakara-rss/imakara_nihongo_cover.jpg</url>
@@ -22,6 +22,56 @@
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <itunes:image href="https://inspirejihan.github.io/imakara-rss/imakara_nihongo_cover.jpg"/>
+    <item>
+      <title>장어2: 도쿄 장어는 할복하지 않는다 (2026년 11월호)</title>
+      <description>이마까라 니홍고 · 2026년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/5000/episodes/25339856</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25339856</guid>
+      <pubDate>Sun, 01 Nov 2026 12:05:00 +0000</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2611imakara30food.mp3" length="50654910" type="audio/mpeg"/>
+      <itunes:duration>00:34:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[어휘] 도나루토의 하루 (21): 날씨 1 (2026년 11월호)</title>
+      <description>이마까라 니홍고 · 2026년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/5000/episodes/25339075</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25339075</guid>
+      <pubDate>Sun, 01 Nov 2026 12:04:00 +0000</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2611imakara79.mp3" length="26933174" type="audio/mpeg"/>
+      <itunes:duration>00:32:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>한국인 사위가 일본인 장인을 만났을 때 (2026년 11월호)</title>
+      <description>이마까라 니홍고 · 2026년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/5000/episodes/25334916</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25334916</guid>
+      <pubDate>Sun, 01 Nov 2026 12:03:00 +0000</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2611imakara78b.mp3" length="37918041" type="audio/mpeg"/>
+      <itunes:duration>00:45:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>한일 커플의 속사정, 그 장구한 역사속으로! (2026년 11월호)</title>
+      <description>이마까라 니홍고 · 2026년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/5000/episodes/25334913</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25334913</guid>
+      <pubDate>Sun, 01 Nov 2026 12:02:00 +0000</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2611imakara78a.mp3" length="40851333" type="audio/mpeg"/>
+      <itunes:duration>00:48:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>77강. れる・られる 없는 존경어 1: 생각하시다 (2026년 11월호)</title>
+      <description>이마까라 니홍고 · 2026년 11월호</description>
+      <link>https://www.podbbang.com/magazines/1790934/issues/5000/episodes/25332611</link>
+      <guid isPermaLink="false">podbbang-magazine-1790934-25332611</guid>
+      <pubDate>Sun, 01 Nov 2026 12:01:00 +0000</pubDate>
+      <enclosure url="https://cdn.podbbang.com/data1/pb_33984/2611imakara77.mp3" length="33101057" type="audio/mpeg"/>
+      <itunes:duration>00:39:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>듣고 따라하세요! (2026년 10월호)</title>
       <description>이마까라 니홍고 · 2026년 10월호</description>
